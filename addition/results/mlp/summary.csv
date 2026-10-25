@@ -1,0 +1,2 @@
+model,seed,parameters,first_observed_95pct_epoch,final_test_acc,final_train_acc,elapsed_sec
+mlp,42,456417,4024,100.0,100.0,87.9
