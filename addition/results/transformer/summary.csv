@@ -1,0 +1,2 @@
+model,seed,parameters,first_observed_95pct_epoch,final_test_acc,final_train_acc,elapsed_sec
+transformer,42,223201,15000,100.0,100.0,170.26
